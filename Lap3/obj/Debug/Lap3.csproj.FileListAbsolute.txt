@@ -1,0 +1,14 @@
+D:\C#\Teacher Assistant\TA\Lap3\bin\Debug\Lap3.exe.config
+D:\C#\Teacher Assistant\TA\Lap3\bin\Debug\Lap3.exe
+D:\C#\Teacher Assistant\TA\Lap3\bin\Debug\Lap3.pdb
+D:\C#\Teacher Assistant\TA\Lap3\obj\Debug\Lap3.csprojAssemblyReference.cache
+D:\C#\Teacher Assistant\TA\Lap3\obj\Debug\Lap3.csproj.CoreCompileInputs.cache
+D:\C#\Teacher Assistant\TA\Lap3\obj\Debug\Lap3.exe
+D:\C#\Teacher Assistant\TA\Lap3\obj\Debug\Lap3.pdb
+C:\Users\T460s\TA\Lap3\bin\Debug\Lap3.exe.config
+C:\Users\T460s\TA\Lap3\bin\Debug\Lap3.exe
+C:\Users\T460s\TA\Lap3\bin\Debug\Lap3.pdb
+C:\Users\T460s\TA\Lap3\obj\Debug\Lap3.csprojAssemblyReference.cache
+C:\Users\T460s\TA\Lap3\obj\Debug\Lap3.csproj.CoreCompileInputs.cache
+C:\Users\T460s\TA\Lap3\obj\Debug\Lap3.exe
+C:\Users\T460s\TA\Lap3\obj\Debug\Lap3.pdb

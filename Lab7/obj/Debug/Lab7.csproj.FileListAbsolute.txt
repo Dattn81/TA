@@ -1,0 +1,7 @@
+C:\Users\T460s\TA\Lab7\bin\Debug\Lab7.exe.config
+C:\Users\T460s\TA\Lab7\bin\Debug\Lab7.exe
+C:\Users\T460s\TA\Lab7\bin\Debug\Lab7.pdb
+C:\Users\T460s\TA\Lab7\obj\Debug\Lab7.csprojAssemblyReference.cache
+C:\Users\T460s\TA\Lab7\obj\Debug\Lab7.csproj.CoreCompileInputs.cache
+C:\Users\T460s\TA\Lab7\obj\Debug\Lab7.exe
+C:\Users\T460s\TA\Lab7\obj\Debug\Lab7.pdb

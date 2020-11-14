@@ -1,0 +1,7 @@
+D:\C#\Teacher Assistant\TA\Lab1\bin\Debug\Lab1.exe.config
+D:\C#\Teacher Assistant\TA\Lab1\bin\Debug\Lab1.exe
+D:\C#\Teacher Assistant\TA\Lab1\bin\Debug\Lab1.pdb
+D:\C#\Teacher Assistant\TA\Lab1\obj\Debug\Lab1.csprojAssemblyReference.cache
+D:\C#\Teacher Assistant\TA\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+D:\C#\Teacher Assistant\TA\Lab1\obj\Debug\Lab1.exe
+D:\C#\Teacher Assistant\TA\Lab1\obj\Debug\Lab1.pdb
